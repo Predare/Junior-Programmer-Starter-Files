@@ -1,0 +1,12 @@
+Library
+Logs
+Temp
+Packages
+UserSettings
+.vscode
+Assembly-CSharp.csproj
+Junior-Programmer-Starter-Files.sln
+Assets/UniversalRenderPipelineGlobalSettings.asset
+Packages/manifest.json
+Packages/packages-lock.json
+ProjectSettings/ProjectVersion.txt
